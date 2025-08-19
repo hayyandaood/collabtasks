@@ -1,6 +1,6 @@
 ## Collabtasks
 
-Collaborative task + Project Management App
+collaborative task + Project Management App 
 
 #### License
 

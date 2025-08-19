@@ -1,9 +1,9 @@
 [project]
 name = "collabtasks"
 authors = [
-    { name = "Hayyan", email = "hayyandaoodit@gmail.com"}
+    { name = "hayyan", email = "hayyandaoodit@gmail.com"}
 ]
-description = "Collaborative task + Project Management App"
+description = "collaborative task + Project Management App "
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

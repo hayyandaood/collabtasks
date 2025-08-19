@@ -1,7 +1,7 @@
 app_name = "collabtasks"
 app_title = "Collabtasks"
-app_publisher = "Hayyan"
-app_description = "Collaborative task + Project Management App"
+app_publisher = "hayyan"
+app_description = "collaborative task + Project Management App "
 app_email = "hayyandaoodit@gmail.com"
 app_license = "agpl-3.0"
 
